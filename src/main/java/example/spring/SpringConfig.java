@@ -1,7 +1,7 @@
-package com.example.spring;
+package example.spring;
 
-import com.example.spring.repository.MemberRepository;
-import com.example.spring.service.MemberService;
+import example.spring.repository.MemberRepository;
+import example.spring.service.MemberService;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

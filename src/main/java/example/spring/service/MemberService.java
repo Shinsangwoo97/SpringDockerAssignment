@@ -1,7 +1,7 @@
-package com.example.spring.service;
+package example.spring.service;
 
-import com.example.spring.domain.Member;
-import com.example.spring.repository.MemberRepository;
+import example.spring.domain.Member;
+import example.spring.repository.MemberRepository;
 import jakarta.transaction.Transactional;
 
 import java.util.List;

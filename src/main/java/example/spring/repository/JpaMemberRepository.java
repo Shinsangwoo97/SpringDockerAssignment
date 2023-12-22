@@ -1,6 +1,6 @@
-package com.example.spring.repository;
+package example.spring.repository;
 
-import com.example.spring.domain.Member;
+import example.spring.domain.Member;
 import jakarta.persistence.EntityManager;
 
 import java.util.List;

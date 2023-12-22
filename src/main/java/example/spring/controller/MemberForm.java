@@ -1,4 +1,4 @@
-package com.example.spring.controller;
+package example.spring.controller;
 public class MemberForm {
     private String name;
     public String getName() {

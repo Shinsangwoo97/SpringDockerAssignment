@@ -1,7 +1,7 @@
-package com.example.spring.controller;
+package example.spring.controller;
 
-import com.example.spring.domain.Member;
-import com.example.spring.service.MemberService;
+import example.spring.domain.Member;
+import example.spring.service.MemberService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
